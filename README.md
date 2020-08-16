@@ -3,7 +3,7 @@ Here I'll submit solutions of some of the problems I solve, I mainly use Python3
 
 Profile url: https://www.hackerrank.com/christian_paoli1?hr_r=1
 
-#Algorithms
+# Algorithms
 
 | Name                              | HR URL                                                       | Points |
 | --------------------------------- | ------------------------------------------------------------ | ------ |
